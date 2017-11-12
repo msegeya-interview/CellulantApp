@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.webservicex.com/stockquote.asmx?WSDL" uri="wsdl/www.webservicex.com/stockquote.asmx.wsdl"/>
+    <system systemId="file:/Users/icode/Desktop/CellulantApp/stockquote.wsdl" uri="wsdl/stockquote.wsdl"/>
+    <system systemId="http://www.webservicex.com/length.asmx" uri="wsdl/www.webservicex.com/length.asmx"/>
+    <system systemId="http://www.webservicex.net/length.asmx?wsdl" uri="wsdl/www.webservicex.net/length.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.net/length.asmx" uri="wsdl/www.webservicex.net/length.asmx"/>
+</catalog>

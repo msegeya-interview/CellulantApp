@@ -1,0 +1,22 @@
+
+${Ansi.BLACK}
+
+
+${AnsiBackground.GREEN}      APPLICATION        :   CELLULANT  SKILLS DEMOSTRATION APPLICATION
+
+${AnsiBackground.WHITE}      DEVELOPER          :   PAUL GEORGE MSEGEYA
+
+${AnsiBackground.WHITE}      ROLE               :   FULL STACK DEVELOPER 
+
+${AnsiBackground.WHITE}      DEV APROACH        :   AGILE WITH TDD  ( TEST DRIVEN DEVELOPMENT )  USING SPRING FRAMEWORK
+
+${AnsiBackground.BRIGHT_YELLOW}      CONTACT EMAIL      :   paul.msegeya@nmbtz.com / paul.msegeya@gmail.com
+
+${AnsiBackground.BRIGHT_YELLOW}      CONTACT MOBILE     :   +255756734448 /+255712734448
+
+${Ansi.WHITE}
+
+${Ansi.BLACK}
+
+
+ 
