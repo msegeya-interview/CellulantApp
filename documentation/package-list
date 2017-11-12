@@ -1,0 +1,11 @@
+com.cellulant
+com.cellulant.config
+com.cellulant.constants
+com.cellulant.daos
+com.cellulant.domain
+com.cellulant.exceptions
+com.cellulant.mapper
+com.cellulant.repository
+com.cellulant.services
+com.cellulant.soapclient
+com.cellulant.utils
